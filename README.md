@@ -16,6 +16,7 @@ index access via operator[]
 It was built as a hands-on exercise after transitioning from Python to C++ to learn how data structures actually work under the hood.
 
 🌟 Features
+
 ✔ Manual Memory Management
 
 Uses new[] and delete[] to allocate and free heap memory.
