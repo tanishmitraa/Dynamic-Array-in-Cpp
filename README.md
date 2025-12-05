@@ -1,4 +1,4 @@
-# Custom-Dynamic-Array-in-C++-
+# Custom Dynamic Array in C++
 A lightweight, educational implementation of a dynamic array in C++, built from scratch to understand how low-level memory management and STL containers work internally.
 
 This project recreates core features of std::vector, including:
